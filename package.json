@@ -1,0 +1,25 @@
+{
+  "name": "pioner",
+  "version": "1.0.0",
+  "description": "先驱者",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enliy/pioner.git"
+  },
+  "keywords": [
+    "pioner",
+    "先驱者",
+    "ui",
+    "vue"
+  ],
+  "author": "Enliy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enliy/pioner/issues"
+  },
+  "homepage": "https://github.com/Enliy/pioner#readme"
+}
